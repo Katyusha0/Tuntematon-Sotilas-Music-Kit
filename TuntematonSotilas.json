@@ -1,0 +1,20 @@
+{
+  "Name": "Tuntematon Sotilas",
+  "Combat": [
+  {"Sound": "tuntematonsotilas/C_Matka_Alkaa.wav", "Length": 95},
+  {"Sound": "tuntematonsotilas/C_Perhe.wav", "Length": 198},
+  {"Sound": "tuntematonsotilas/C_Prologi.wav", "Length": 206},
+	{"Sound": "tuntematonsotilas/C_Rajan_Ylitys.wav", "Length": 191},
+	{"Sound": "tuntematonsotilas/C_Raskas_Taival.wav", "Length": 132},
+	{"Sound": "tuntematonsotilas/C_Tankki.wav", "Length": 256}
+  ],
+  "Ambient": [
+  {"Sound": "tuntematonsotilas/A_Ensimmäinen_Kosketus.wav", "Length": 130},
+  {"Sound": "tuntematonsotilas/A_Kuolema.wav", "Length": 133},
+	{"Sound": "tuntematonsotilas/A_Lähtö_Petroskoista.wav", "Length": 140},
+	{"Sound": "tuntematonsotilas/A_Lotta.wav", "Length": 197},
+	{"Sound": "tuntematonsotilas/A_Matka_Petroskoihin.wav", "Length": 88},
+	{"Sound": "tuntematonsotilas/A_Rauha.wav", "Length": 495},
+	{"Sound": "tuntematonsotilas/A_Vetäytyminen.wav", "Length": 363}
+  ]
+}
